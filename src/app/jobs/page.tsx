@@ -1,3 +1,4 @@
+'use client'
 import { Suspense } from 'react';
 import { JobCard } from '@/components/job-card';
 import { jobs } from '@/lib/data';
