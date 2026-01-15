@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo-innovate-inc",
+      "description": "Innovate Inc. company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1663124178703-d2d6a333e6c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0ZWNoJTIwbG9nb3xlbnwwfHx8fDE3NjgyODI5OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech logo"
+    },
+    {
+      "id": "logo-global-data-solutions",
+      "description": "Global Data Solutions company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1758560902402-0785e1ff77db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBsb2dvfGVufDB8fHx8MTc2ODMyNjA2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "global logo"
+    },
+    {
+      "id": "logo-creative-co",
+      "description": "Creative Co. company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1532623034127-3d92b01fb3c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcmVhdGl2ZSUyMGxvZ298ZW58MHx8fHwxNzY4NDAwNzg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creative logo"
+    },
+    {
+      "id": "logo-international-holdings",
+      "description": "International Holdings Group company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1700887938966-01f0450aee8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBsb2dvfGVufDB8fHx8MTc2ODM0NzAyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corporate logo"
+    },
+    {
+      "id": "logo-growthhackers",
+      "description": "GrowthHackers LLC company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1590140297846-fa479ed30a6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdGFydHVwJTIwbG9nb3xlbnwwfHx8fDE3NjgyODI5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "startup logo"
+    },
+    {
+      "id": "logo-ai-innovators",
+      "description": "AI Innovators company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1764934420970-d6cb866db113?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxBSSUyMGxvZ298ZW58MHx8fHwxNzY4MzE2NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI logo"
+    },
+    {
+      "id": "logo-dev-solutions",
+      "description": "Dev Solutions company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1649091245826-6f9a6e2b9268?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZXZlbG9wZXIlMjBsb2dvfGVufDB8fHx8MTc2ODQwNDI0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer logo"
+    },
+    {
+      "id": "logo-code-crafters",
+      "description": "Code Crafters company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1649180564403-db28d5673f48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2RlJTIwbG9nb3xlbnwwfHx8fDE3NjgzMzM1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code logo"
+    },
+    {
+      "id": "logo-quantum-ai",
+      "description": "Quantum AI company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1625670413987-0ae649494c61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxxdWFudHVtJTIwbG9nb3xlbnwwfHx8fDE3Njg0MDQyNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quantum logo"
+    },
+    {
+      "id": "logo-next-gen-tech",
+      "description": "NextGen Tech company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1662027008658-ae6e5aeeed47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVjaCUyMGxvZ298ZW58MHx8fHwxNzY4MjgyOTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech logo"
+    }
+  ]
+}
