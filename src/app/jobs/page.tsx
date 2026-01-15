@@ -1,5 +1,4 @@
-'use client';
-
+import { Suspense } from 'react';
 import { JobCard } from '@/components/job-card';
 import { jobs } from '@/lib/data';
 import {
@@ -26,7 +25,8 @@ function parseSalaryToAnnual(s: string): number | null {
   return max;
 }
 
-export default function JobsPage() {
+function JobsClient() {
+  'use client';
   const sp = useSearchParams();
   const q = (sp.get('q') || '').toLowerCase().trim();
   const [loc, setLoc] = useState<string>('');
@@ -184,5 +184,13 @@ export default function JobsPage() {
         </main>
       </div>
     </div>
+  );
+}
+
+export default function JobsPage() {
+  return (
+    <Suspense fallback={<div className="container py-8">Loading jobs…</div>}>
+      <JobsClient />
+    </Suspense>
   );
 }
